@@ -22,7 +22,7 @@ class Form extends Component {
             <div className="container">
             <h1>Get a Qubi Form</h1>
             <hr></hr>
-            <form onSubmit={this.handleSubmit}>
+            <form>
   
               <div className="form-control">
                 <label>Name: </label>
